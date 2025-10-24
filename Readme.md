@@ -35,7 +35,17 @@ Choose one of six popular travel cities and explore curated rental offers with d
 
 ## 🚀 Getting Started
 
-![App Preview](image-1.png)
+# Clone the repository
+git clone https://github.com/BNA-projects/6-cities-eng.git
+
+# Navigate to the project folder
+cd skyprowallet
+
+# Install dependencies
+npm install
+
+# Run the project
+npm run start
 
 ---
 
